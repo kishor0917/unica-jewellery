@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" fill="#0A0A0A"/>
+  <polygon points="16,4 22,12 28,12 22,20 24,28 16,23 8,28 10,20 4,12 10,12" fill="#D4AF37" opacity="0.9"/>
+  <text x="16" y="19" font-family="Georgia,serif" font-size="8" fill="#0A0A0A" text-anchor="middle" font-weight="bold">U</text>
+</svg>
